@@ -48,7 +48,7 @@ This project demonstrates how to clean, explore, and analyze sales data using SQ
 ### Dashboard Insights:
 After cleaning and analyzing the dataset in SQL, it was imported into Power BI to visualize sales metrics, revenue trends, and product performance across different regions.
 
-### Key Insights:
+### KeyInsights:
 1. **Sales Decline in 2020:**  
    Sales decreased by **57.7%** compared to 2019.
 
